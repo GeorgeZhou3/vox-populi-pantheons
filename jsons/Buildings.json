@@ -1,0 +1,50 @@
+[
+  {
+		"name": "God of Commerce - Religious",
+		"cost": 0,
+		"faith": 2,
+		"gold": 2,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Will not be displayed in Civilopedia"]
+	},
+    {
+		"name": "God of Commerce - Capital",
+		"cost": 0,
+		"faith": 2,
+		"gold": 2,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"uniques": ["Unbuildable", "Can only be built [in capital]", "Will not be displayed in Civilopedia"]
+	},
+ {
+		"name": "God-King - Religious",
+		"cost": 0,
+		"faith": 2,
+		"production": 2,
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Will not be displayed in Civilopedia"]
+	},
+    {
+		"name": "God-King - Capital",
+		"cost": 0,
+		"faith": 2,
+		"production": 2,
+		"uniques": ["Unbuildable", "Can only be built [in capital]", "Will not be displayed in Civilopedia"]
+	},
+   {
+		"name": "Goddess of Beauty - Capital",
+		"cost": 0,
+		"greatPersonPoints": {"Great Engineer": 2, "Great Artist": 2},
+		"uniques": ["Unbuildable", "Can only be built [in capital]", "Will not be displayed in Civilopedia"]
+	},
+  {
+		"name": "Goddess of Wisdom - Capital",
+		"cost": 0,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": ["Unbuildable", "Can only be built [in capital]", "Will not be displayed in Civilopedia"]
+	},
+  {
+		"name": "Goddess of Wisdom - Religious",
+		"cost": 0,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "Can only be built [in holy cities]", "Will not be displayed in Civilopedia"]
+	}
+]
