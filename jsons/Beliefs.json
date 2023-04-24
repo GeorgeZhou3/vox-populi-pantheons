@@ -1,17 +1,32 @@
 [
     {
-        "name": "God of All Creation",
+        "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture, +2 Food, +2 Production, +2 Science, +2 Faith, +2 Gold] from every [Palace]","[+2 Culture, +2 Food, +2 Production, +2 Science, +2 Faith, +2 Gold] from every [Palace] <starting from the [Classical era]>"]
+        "uniques": ["[+1 Faith] per [5] population [in all cities]","[+2 Culture, 2 Faith] from all [Library] buildings"]
     },
     {
-        "name": "God of the Open Sky",
+        "name": "Earth Mother",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [Strategic resource] <in [Tundra] tiles>","[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [Bonus resource] <in [Tundra] tiles>","[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [Luxury resource] <in [Tundra] tiles>"]
+        "uniques": ["[+1 Faith, +1 Production] from all [Monument] buildings","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Strategic resource] tiles>","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Strategic resource] tiles>","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Resource] tiles>",]
+    },
+    {
+        "name": "God of All Creation",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from all [Monument] buildings","[+1 Culture] from all [Palace] buildings","[+2 Food, +2 Production, +2 Science, +2 Gold] from every [Palace]","[+2 Food, +2 Production, +2 Science, +2 Gold] from every [Palace] <starting from the [Classical era]>"]
+    },
+    {
+        "name": "God of the Stars and Sky",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture, +1 Food, +1 Faith] from every [Strategic resource] <in [Tundra] tiles>","[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [Bonus resource] <in [Tundra] tiles>","[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [Luxury resource] <in [Tundra] tiles>"]
     },
     {
         "name": "Spirit of the Desert",
         "type": "Pantheon",
-        "uniques": ["[+2 Food] from every [Oasis]","[+1 Gold, +1 Production, +1 Faith] from every [Strategic resource] <in [Desert] tiles>","[+1 Gold, +1 Production, +1 Faith] from every [Bonus resource] <in [Desert] tiles>","[+1 Gold, +1 Production, +1 Faith] from every [Luxury resource] <in [Desert] tiles>"]
-    }
+        "uniques": ["[+3 Food] from every [Oasis]","[+1 Gold, +1 Production, +1 Faith] from every [Strategic resource] <in [Desert] tiles>","[+1 Gold, +1 Production, +1 Faith] from every [Bonus resource] <in [Desert] tiles>","[+1 Gold, +1 Production, +1 Faith] from every [Luxury resource] <in [Desert] tiles>"]
+    },
+    {
+        "name": "Tulteary Gods",
+        "type": "Pantheon",
+        "uniques": ["[+3 Production, +2 Gold, +1 Faith] <in cities with at least [3] [Population]>","[+1 Production, +1 Faith] from all [Workshop] buildings","[+1 Production, +1 Faith] from all [Windmill] buildings","[+2 Production, +2 Faith] from all [Factory] buildings"]
+    },
    ]
