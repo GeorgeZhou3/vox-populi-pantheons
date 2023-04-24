@@ -32,7 +32,7 @@
     {
         "name": "God of the Sea",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boat]","[+1 Production, +1 Faith] from every [Atoll]","[+2 Food] [in all coastal cities]"]
+        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]","[+1 Production, +1 Faith] from every [Atoll]","[+2 Food] [in all coastal cities]"]
     },
     {
         "name": "God of the Stars and Sky",
@@ -57,7 +57,7 @@
     {
         "name": "Goddess of Beauty",
         "type": "Pantheon",
-        "uniques": ["May buy [Goddess of Beauty - Capital] buildings for [0] [Gold] [in all cities]","[+2 Faith] from every [Wonder]","[+1 Faith] from every [Amphitheatre]","[+1 Faith] from every [Palace]","[+1 Faith] from every [Cathedral]","[+1 Faith] from every [Opera House]","[+2 Faith] from every [Factory]"]
+        "uniques": ["May buy [Goddess of Beauty - Capital] buildings for [0] [Gold] [in all cities]","[+2 Faith] from every [Wonder]","[+1 Faith] from every [Amphitheater]","[+1 Faith] from every [Palace]","[+1 Faith] from every [Cathedral]","[+1 Faith] from every [Opera House]","[+2 Faith] from every [Factory]"]
     },
     {
         "name": "Goddess of Protection",
@@ -67,7 +67,7 @@
     {
         "name": "Goddess of Purity",
         "type": "Pantheon",
-        "uniques": ["[+1 Happiness] in cities on [River] tiles","[+1 Food,+1 Faith] from every [Lake]","[+3 Food,+1 Faith,+1 Production] from every [Lake]"]
+        "uniques": ["[+1 Happiness] in cities on [River] tiles","[+1 Food,+1 Faith] from every [Lakes]","[+3 Food,+1 Faith,+1 Production] from every [Marsh]"]
     },
     {
         "name": "Goddess of Renewal",
@@ -87,7 +87,7 @@
     {
         "name": "Goddess of Wisdom",
         "type": "Pantheon",
-        "uniques": ["[+1 Science, +1 Faith] [in all cities]","[+2 Science, +2 Faith] <in cities with at least [1] [Specialist]>","May buy [Goddess of Wisdom - Capital] buildings for [0] [Gold] [in all cities]","May buy [Goddess of Wisdom - Religious] buildings for [0] [Gold] [in all cities]"]
+        "uniques": ["[+1 Science, +1 Faith] [in all cities]","[+2 Science, +2 Faith] <in cities with at least [1] [Specialists]>","May buy [Goddess of Wisdom - Capital] buildings for [0] [Gold] [in all cities]","May buy [Goddess of Wisdom - Religious] buildings for [0] [Gold] [in all cities]"]
     },
     {
          "name": "Spirit of the Desert",
