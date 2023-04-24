@@ -7,7 +7,7 @@
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+1 Culter, +1 Gold, +1 Food, +1 Faith] from every [Resource] <in [Tundra] tiles>"]
+        "uniques": ["[+1 Culter, +1 Gold, +1 Food, +1 Faith] from every [Improvement] <in [Tundra] tiles> <in [Resource] tiles>"]
     },
     {
         "name": "Spirit of the Desert",
