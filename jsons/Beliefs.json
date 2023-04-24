@@ -7,7 +7,7 @@
     {
         "name": "Earth Mother",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith, +1 Production] from all [Monument] buildings","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Strategic resource] tiles>","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Strategic resource] tiles>","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Resource] tiles>",]
+        "uniques": ["[+1 Faith, +1 Production] from all [Monument] buildings","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Strategic resource] tiles>","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Strategic resource] tiles>","[+1 Faith, +1 Culture] from [Mine] tiles [in all cities] <in [Resource] tiles>"]
     },
     {
         "name": "God of All Creation",
