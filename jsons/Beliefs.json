@@ -1,102 +1,102 @@
 [
     {
-        "name": "Ancestor Worship",
-        "type": "Pantheon",
-        "uniques": ["[+1 Faith] per [5] population [in all cities]","[+2 Culture, +2 Faith] from all [Library] buildings"]
-    },
+        "name": "Ancestor Worship", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Faith] per [5] population [in all cities]", "[+2 Culture, +2 Faith] from all [Library] buildings"]
+    }, 
     {
-        "name": "Earth Mother",
-        "type": "Pantheon",
-        "uniques": ["[+1 Faith, +1 Production] from every [Monument] buildings","[+1 Faith, +1 Culture] from every [Mine] <in [Bonus resource] tiles>","[+1 Faith, +1 Culture] from every [Mine] <in [Luxury resource] tiles>","[+1 Faith, +1 Culture] from every [Mine] <in [Strategic resource] tiles>"]
-    },
+        "name": "Earth Mother", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Faith, +1 Production] from every [Monument] buildings", "[+1 Faith, +1 Culture] from every [Mine] <in [Bonus resource] tiles>", "[+1 Faith, +1 Culture] from every [Mine] <in [Luxury resource] tiles>", "[+1 Faith, +1 Culture] from every [Mine] <in [Strategic resource] tiles>"]
+    }, 
     {
-        "name": "God of All Creation",
-        "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Monument]","[+1 Culture] from every [Palace]","[+2 Food, +2 Production, +2 Science, +2 Gold] from every [Palace]","[+2 Food, +2 Production, +2 Science, +2 Gold] from every [Palace] <starting from the [Classical era]>"]
-    },
+        "name": "God of All Creation", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Faith] from every [Monument]", "[+1 Culture] from every [Palace]", "[+2 Food, +2 Production, +2 Science, +2 Gold] from every [Palace]", "[+2 Food, +2 Production, +2 Science, +2 Gold] from every [Palace] <starting from the [Classical era]>"]
+    }, 
     {
-        "name": "God of Commerce",
-        "type": "Pantheon",
-        "uniques": ["[+2 Gold, +2 Faith] from each trade route","May buy [God of Commerce - Capital] buildings for [0] [Gold] [in all cities]","May buy [God of Commerce - Religious] buildings for [0] [Gold] [in all cities]"]
-    },
+        "name": "God of Commerce", 
+        "type": "Pantheon", 
+        "uniques": ["[+2 Gold, +2 Faith] from each trade route", "May buy [God of Commerce - Capital] buildings for [0] [Gold] [in all cities]", "May buy [God of Commerce - Religious] buildings for [0] [Gold] [in all cities]"]
+    }, 
     {
-        "name": "God of Craftsmen",
-        "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Faith] from every [Quarry]","[+1 Production, +1 Faith] from every [Stone Works]","[+2 Faith,+1 Culture,+1 Science] from every [Palace]"]
-    },
+        "name": "God of Craftsmen", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Production, +1 Faith] from every [Quarry]", "[+1 Production, +1 Faith] from every [Stone Works]", "[+2 Faith, +1 Culture, +1 Science] from every [Palace]"]
+    }, 
      {
-        "name": "God of the Open Sky",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Strategic resource] <in [Plains] tiles>","[+1 Culture] from every [Bonus resource] <in [Plains] tiles>","[+1 Culture] from every [Luxury resource] <in [Plains] tiles>","[+1 Culture] from every [Strategic resource] <in [Grassland] tiles>","[+1 Culture] from every [Bonus resource] <in [Grassland] tiles>","[+1 Culture] from every [Luxury resource] <in [Grassland] tiles>","[+1 Faith, +3 Gold] from every [Pasture]"]
-     },
+        "name": "God of the Open Sky", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Culture] from every [Strategic resource] <in [Plains] tiles>", "[+1 Culture] from every [Bonus resource] <in [Plains] tiles>", "[+1 Culture] from every [Luxury resource] <in [Plains] tiles>", "[+1 Culture] from every [Strategic resource] <in [Grassland] tiles>", "[+1 Culture] from every [Bonus resource] <in [Grassland] tiles>", "[+1 Culture] from every [Luxury resource] <in [Grassland] tiles>", "[+1 Faith, +3 Gold] from every [Pasture]"]
+     }, 
     {
-        "name": "God of the Sea",
-        "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]","[+1 Production, +1 Faith] from every [Atoll]","[+2 Food] [in all coastal cities]"]
-    },
+        "name": "God of the Sea", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Production, +1 Faith] from every [Fishing Boats]", "[+1 Production, +1 Faith] from every [Atoll]", "[+2 Food] [in all coastal cities]"]
+    }, 
     {
-        "name": "God of the Stars and Sky",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Food, +1 Faith] from every [Strategic resource] <in [Tundra] tiles>","[+1 Culture, +1 Food, +1 Faith] from every [Bonus resource] <in [Tundra] tiles>","[+1 Culture, +1 Food, +1 Faith] from every [Luxury resource] <in [Tundra] tiles>"]
-    },
+        "name": "God of the Stars and Sky", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Culture, +1 Food, +1 Faith] from every [Strategic resource] <in [Tundra] tiles>", "[+1 Culture, +1 Food, +1 Faith] from every [Bonus resource] <in [Tundra] tiles>", "[+1 Culture, +1 Food, +1 Faith] from every [Luxury resource] <in [Tundra] tiles>"]
+    }, 
     {
-        "name": "God of the Sun",
-        "type": "Pantheon",
-        "uniques": ["[+2 Gold, +3 Faith] from every [Granary]","[+3 Food] from every [Farm] <in [Wheat] tiles>"]
-    },
+        "name": "God of the Sun", 
+        "type": "Pantheon", 
+        "uniques": ["[+2 Gold, +3 Faith] from every [Granary]", "[+3 Food] from every [Farm] <in [Wheat] tiles>"]
+    }, 
     {
-        "name": "God of War",
-        "type": "Pantheon",
-        "uniques": ["[+10]% Strength for cities <when attacking>","[+10]% Production when constructing [All] units [in all cities]","Earn [175]% of killed [Military] unit's [Strength] as [Faith]"]
-    },
+        "name": "God of War", 
+        "type": "Pantheon", 
+        "uniques": ["[+10]% Strength for cities <when attacking>", "[+10]% Production when constructing [All] units [in all cities]", "Earn [175]% of killed [Military] unit's [Strength] as [Faith]"]
+    }, 
     {
-        "name": "God-King",
-        "type": "Pantheon",
-        "uniques": ["May buy [God-King - Capital] buildings for [0] [Gold] [in all cities]","May buy [God-King - Religious] buildings for [0] [Gold] [in all cities]","[+1 Faith,+1 Gold,+1 Culture,+1 Science,+1 Happiness] per [5] population [in all cities]","[+1 Faith,+1 Gold,+1 Culture,+1 Science,+1 Happiness] per [5] population [in all cities] <after founding a religion>"]
-    },
+        "name": "God-King", 
+        "type": "Pantheon", 
+        "uniques": ["May buy [God-King - Capital] buildings for [0] [Gold] [in all cities]", "May buy [God-King - Religious] buildings for [0] [Gold] [in all cities]", "[+1 Faith, +1 Gold, +1 Culture, +1 Science, +1 Happiness] per [5] population [in all cities]", "[+1 Faith, +1 Gold, +1 Culture, +1 Science, +1 Happiness] per [5] population [in all cities] <after founding a religion>"]
+    }, 
     {
-        "name": "Goddess of Beauty",
-        "type": "Pantheon",
-        "uniques": ["May buy [Goddess of Beauty - Capital] buildings for [0] [Gold] [in all cities]","[+2 Faith] from every [Wonder]","[+1 Faith] from every [Amphitheater]","[+1 Faith] from every [Palace]","[+1 Faith] from every [Cathedral]","[+1 Faith] from every [Opera House]","[+2 Faith] from every [Museum]"]
-    },
+        "name": "Goddess of Beauty", 
+        "type": "Pantheon", 
+        "uniques": ["May buy [Goddess of Beauty - Capital] buildings for [0] [Gold] [in all cities]", "[+2 Faith] from every [Wonder]", "[+1 Faith] from every [Amphitheater]", "[+1 Faith] from every [Palace]", "[+1 Faith] from every [Cathedral]", "[+1 Faith] from every [Opera House]", "[+2 Faith] from every [Museum]"]
+    }, 
     {
-        "name": "Goddess of Protection",
-        "type": "Pantheon",
-        "uniques": ["[+2 Faith, +1 Culture] from every [Walls]","[+2 Faith, +1 Culture] from every [Barracks]","[+2 Faith, +1 Culture] from every [Palace]","[10] HP when healing <in [Friendly Land] tiles>"]
-    },
+        "name": "Goddess of Protection", 
+        "type": "Pantheon", 
+        "uniques": ["[+2 Faith, +1 Culture] from every [Walls]", "[+2 Faith, +1 Culture] from every [Barracks]", "[+2 Faith, +1 Culture] from every [Palace]", "[10] HP when healing <in [Friendly Land] tiles>"]
+    }, 
     {
-        "name": "Goddess of Purity",
-        "type": "Pantheon",
-        "uniques": ["[+1 Happiness] in cities on [River] tiles","[+1 Food,+1 Faith] from every [Lakes]","[+3 Food,+1 Faith,+1 Production] from every [Marsh]"]
-    },
+        "name": "Goddess of Purity", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Happiness] in cities on [River] tiles", "[+1 Food, +1 Faith] from every [Lakes]", "[+3 Food, +1 Faith, +1 Production] from every [Marsh]"]
+    }, 
     {
-        "name": "Goddess of Renewal",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith, +1 Science] from every [Strategic resource] <in [Plains] tiles>","[+1 Culture, +1 Faith, +1 Science] from every [Bonus resource] <in [Plains] tiles>","[+1 Culture, +1 Faith, +1 Science] from every [Luxury resource] <in [Forest] tiles>","[+1 Culture, +1 Faith, +1 Science] from every [Strategic resource] <in [Jungle] tiles>","[+1 Culture, +1 Faith, +1 Science] from every [Bonus resource] <in [Jungle] tiles>","[+1 Culture, +1 Faith, +1 Science] from every [Luxury resource] <in [Jungle] tiles>", "[+2 Science, +2 Food] from every [Market]"]
-    },
+        "name": "Goddess of Renewal", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Culture, +1 Faith, +1 Science] from every [Strategic resource] <in [Plains] tiles>", "[+1 Culture, +1 Faith, +1 Science] from every [Bonus resource] <in [Plains] tiles>", "[+1 Culture, +1 Faith, +1 Science] from every [Luxury resource] <in [Forest] tiles>", "[+1 Culture, +1 Faith, +1 Science] from every [Strategic resource] <in [Jungle] tiles>", "[+1 Culture, +1 Faith, +1 Science] from every [Bonus resource] <in [Jungle] tiles>", "[+1 Culture, +1 Faith, +1 Science] from every [Luxury resource] <in [Jungle] tiles>", "[+2 Science, +2 Food] from every [Market]"]
+    }, 
     {
-        "name": "Goddess of the Home",
-        "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Faith] from every [Shrine]","[+8 Food,+8 Faith] <upon constructing [All]> <starting from the [Ancient era]>","[+8 Food,+8 Faith] <upon constructing [All]> <starting from the [Medieval era]>","[+8 Food,+8 Faith] <upon constructing [All]> <starting from the [Renaissance era]>","[+8 Food,+8 Faith] <upon constructing [All]> <starting from the [Industrial era]>","[+8 Food,+8 Faith] <upon constructing [All]> <starting from the [Modern era]>","[+8 Food,+8 Faith] <upon constructing [All]> <starting from the [Atomic era]>","[+8 Food,+8 Faith] <upon constructing [All]> <starting from the [Information era]>","[+8 Food,+8 Faith] <upon constructing [All]> <starting from the [Future era]>"]
-    },
+        "name": "Goddess of the Home", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Food, +1 Faith] from every [Shrine]", "[+8 Food, +8 Faith] <upon constructing [All]> <starting from the [Ancient era]>", "[+8 Food, +8 Faith] <upon constructing [All]> <starting from the [Medieval era]>", "[+8 Food, +8 Faith] <upon constructing [All]> <starting from the [Renaissance era]>", "[+8 Food, +8 Faith] <upon constructing [All]> <starting from the [Industrial era]>", "[+8 Food, +8 Faith] <upon constructing [All]> <starting from the [Modern era]>", "[+8 Food, +8 Faith] <upon constructing [All]> <starting from the [Atomic era]>", "[+8 Food, +8 Faith] <upon constructing [All]> <starting from the [Information era]>", "[+8 Food, +8 Faith] <upon constructing [All]> <starting from the [Future era]>"]
+    }, 
     {
-        "name": "Goddess of the Hunt",
-        "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Culture, +1 Faith] from every [Camp]","[+1 Food] from every [Strategic resource] <in [Tundra] tiles>","[+1 Food] from every [Bonus resource] <in [Tundra] tiles>","[+1 Food] from every [Luxury resource] <in [Tundra] tiles>"]
-    },
+        "name": "Goddess of the Hunt", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Food, +1 Culture, +1 Faith] from every [Camp]", "[+1 Food] from every [Strategic resource] <in [Tundra] tiles>", "[+1 Food] from every [Bonus resource] <in [Tundra] tiles>", "[+1 Food] from every [Luxury resource] <in [Tundra] tiles>"]
+    }, 
     {
-        "name": "Goddess of Wisdom",
-        "type": "Pantheon",
-        "uniques": ["[+1 Science, +1 Faith] [in all cities]","[+2 Science, +2 Faith] <in cities with at least [1] [Specialists]>","May buy [Goddess of Wisdom - Capital] buildings for [0] [Gold] [in all cities]","May buy [Goddess of Wisdom - Religious] buildings for [0] [Gold] [in all cities]"]
-    },
+        "name": "Goddess of Wisdom", 
+        "type": "Pantheon", 
+        "uniques": ["[+1 Science, +1 Faith] [in all cities]", "[+2 Science, +2 Faith] <in cities with at least [1] [Specialists]>", "May buy [Goddess of Wisdom - Capital] buildings for [0] [Gold] [in all cities]", "May buy [Goddess of Wisdom - Religious] buildings for [0] [Gold] [in all cities]"]
+    }, 
     {
-         "name": "Spirit of the Desert",
-        "type": "Pantheon",
-        "uniques": ["[+3 Food] from every [Oasis]","[+1 Gold, +1 Production, +1 Faith] from every [Strategic resource] <in [Desert] tiles>","[+1 Gold, +1 Production, +1 Faith] from every [Bonus resource] <in [Desert] tiles>","[+1 Gold, +1 Production, +1 Faith] from every [Luxury resource] <in [Desert] tiles>"]
-    },
+         "name": "Spirit of the Desert", 
+        "type": "Pantheon", 
+        "uniques": ["[+3 Food] from every [Oasis]", "[+1 Gold, +1 Production, +1 Faith] from every [Strategic resource] <in [Desert] tiles>", "[+1 Gold, +1 Production, +1 Faith] from every [Bonus resource] <in [Desert] tiles>", "[+1 Gold, +1 Production, +1 Faith] from every [Luxury resource] <in [Desert] tiles>"]
+    }, 
     {
-        "name": "Tulteary Gods",
-        "type": "Pantheon",
-        "uniques": ["[+3 Production, +2 Gold, +1 Faith] <in cities with at least [3] [Population]>","[+1 Production, +1 Faith] from every [Workshop]","[+1 Production, +1 Faith] from every [Windmill]","[+2 Production, +2 Faith] from every [Factory]"]
+        "name": "Tulteary Gods", 
+        "type": "Pantheon", 
+        "uniques": ["[+3 Production, +2 Gold, +1 Faith] <in cities with at least [3] [Population]>", "[+1 Production, +1 Faith] from every [Workshop]", "[+1 Production, +1 Faith] from every [Windmill]", "[+2 Production, +2 Faith] from every [Factory]"]
     }
    ]
