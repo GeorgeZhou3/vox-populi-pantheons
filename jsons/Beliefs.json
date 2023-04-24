@@ -7,11 +7,11 @@
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [resource] <in [Tundra] tiles>"]
+        "uniques": ["[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [Strategic resource] <in [Tundra] tiles>","[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [Bonus resource] <in [Tundra] tiles>","[+1 Culture, +1 Gold, +1 Food, +1 Faith] from every [Luxury resource] <in [Tundra] tiles>"]
     },
     {
         "name": "Spirit of the Desert",
         "type": "Pantheon",
-        "uniques": ["[+2 Food] from every [Oasis]","[+1 Gold, +1 Production, +1 Faith] from every [resource] <in [Desert] tiles>"]
+        "uniques": ["[+2 Food] from every [Oasis]","[+1 Gold, +1 Production, +1 Faith] from every [Strategic resource] <in [Desert] tiles>","[+1 Gold, +1 Production, +1 Faith] from every [Bonus resource] <in [Desert] tiles>","[+1 Gold, +1 Production, +1 Faith] from every [Luxury resource] <in [Desert] tiles>"]
     }
    ]
