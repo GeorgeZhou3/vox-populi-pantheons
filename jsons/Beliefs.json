@@ -2,7 +2,7 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] per [5] population [in all cities]","[+2 Culture, 2 Faith] from all [Library] buildings"]
+        "uniques": ["[+1 Faith] per [5] population [in all cities]","[+2 Culture, +2 Faith] from all [Library] buildings"]
     },
     {
         "name": "Earth Mother",
@@ -57,12 +57,12 @@
     {
         "name": "Goddess of Beauty",
         "type": "Pantheon",
-        "uniques": ["May buy [Goddess of Beauty - Capital] buildings for [0] [Gold] [in all cities]","[+2 Faith] from every [Wonder]","[+1 Faith] from every [Amphitheater]","[+1 Faith] from every [Palace]","[+1 Faith] from every [Cathedral]","[+1 Faith] from every [Opera House]","[+2 Faith] from every [Factory]"]
+        "uniques": ["May buy [Goddess of Beauty - Capital] buildings for [0] [Gold] [in all cities]","[+2 Faith] from every [Wonder]","[+1 Faith] from every [Amphitheater]","[+1 Faith] from every [Palace]","[+1 Faith] from every [Cathedral]","[+1 Faith] from every [Opera House]","[+2 Faith] from every [Museum]"]
     },
     {
         "name": "Goddess of Protection",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith,+1 Culture] from every [Walls]","[+2 Faith,+1 Culture] from every [Barracks]","[+2 Faith,+1 Culture] from every [Palace]","[10] HP when healing <in [Friendly Land] tiles>"]
+        "uniques": ["[+2 Faith, +1 Culture] from every [Walls]","[+2 Faith, +1 Culture] from every [Barracks]","[+2 Faith, +1 Culture] from every [Palace]","[10] HP when healing <in [Friendly Land] tiles>"]
     },
     {
         "name": "Goddess of Purity",
