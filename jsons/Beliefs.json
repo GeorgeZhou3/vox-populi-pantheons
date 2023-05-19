@@ -97,6 +97,6 @@
     {
         "name": "Tulteary Gods", 
         "type": "Pantheon", 
-        "uniques": ["[+3 Production, +2 Gold, +1 Faith] <in cities with at least [3] [Population]>", "[+1 Production, +1 Faith] from every [Workshop]", "[+1 Production, +1 Faith] from every [Windmill]", "[+2 Production, +2 Faith] from every [Factory]"]
+        "uniques": ["[+3 Production, +2 Gold, +1 Faith] <in cities with at least [3] [Population]>", "[+1 Production, +1 Faith] from every [Engineer]"]
     }
    ]
